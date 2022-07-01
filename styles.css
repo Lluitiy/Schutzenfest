@@ -9,7 +9,10 @@ a:hover, a:focus {
     color: yellow;
 }
 a:visited {
-    color: black;
+    color: blue;
+}
+a:visited:hover, a:visited:focus {
+    color: yellow;
 }
 body {
     background-color: lightslategray;

@@ -1,0 +1,25 @@
+body {
+    width: 1000px;
+}
+a {
+    font-size: large;
+    text-decoration: none
+}
+a:hover, a:focus {
+    color: yellow;
+}
+a:visited {
+    color: black;
+}
+body {
+    background-color: lightslategray;
+}
+h1 { 
+    color: blue;
+}
+h2 {
+    color: rgb(236, 236, 58);
+}
+p {
+    color: black;
+}
